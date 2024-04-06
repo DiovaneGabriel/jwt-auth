@@ -1,5 +1,5 @@
 {
-    "name": "php-open-source-saver/jwt-auth",
+    "name": "diovanegabriel/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
